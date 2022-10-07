@@ -1,4 +1,4 @@
-## Commands for install TendaU9 drivers for Linux ##
+## TendaU9 drivers for Linux ##
 
 ### apt(Ubuntu) package manager: ###  
 sudo apt update  
