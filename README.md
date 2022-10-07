@@ -2,8 +2,8 @@
 commands for install tendaU9 drivers for linux 
 
 ### apt(Ubuntu) package manager: ###  
-sudo apt update
-sudo apt install build-essential git dkms
+sudo apt update  
+sudo apt install build-essential git dkms  
 git clone https://github.com/brektrou/rtl8821CU.git
 cd rtl8821CU
 chmod +x dkms-install.sh
