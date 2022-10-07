@@ -1,6 +1,6 @@
 ## TendaU9 drivers for Linux ##
 
-### apt(Ubuntu) package manager: ###  
+### apt(ubuntu) package manager: ###  
 sudo apt update  
 sudo apt install build-essential git dkms  
 git clone https://github.com/brektrou/rtl8821CU.git  
