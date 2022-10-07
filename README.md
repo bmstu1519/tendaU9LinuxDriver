@@ -1,7 +1,7 @@
 # tendaU9LinuxDriver
 commands for install tendaU9 drivers for linux 
 
-###apt(Ubuntu) package manager:###
+### apt(Ubuntu) package manager: ###  
 sudo apt update
 sudo apt install build-essential git dkms
 git clone https://github.com/brektrou/rtl8821CU.git
@@ -10,7 +10,7 @@ chmod +x dkms-install.sh
 sudo ./dkms-install.sh
 sudo modprobe 8821cu 
 
-###pacman(arch) package manager:###
+### pacman(arch) package manager: ###
 Build and install without DKMS:
 https://linuxconfig.org/manjaro-linux-kernel-headers-installation - про headers 
 
